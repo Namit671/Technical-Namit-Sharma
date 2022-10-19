@@ -33,7 +33,7 @@ Homepage
 
 About Us / Contact Us
 ___________________________
-The name of the website is "ChetanTyagi-Xenonstack-Technical-Task-round---2" which is based on the given topic Car Selling. The website is hosted on Github.
+The name of the website is "Namit Sharma-Xenonstack-Technical-Task-round---2" which is based on the given topic Car Selling. The website is hosted on Github.
 
 =======================================================================================================================================================================
 
