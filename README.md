@@ -1,4 +1,4 @@
-Welcome to the Readme of Chetan Tyagi Xenonstack Technical task..
+Welcome to the Readme of Namit Sharma Xenonstack Technical task..
 Here,
 Our task is to create a login logout flow which will be connected with Database on the following themes:
 a) Car Selling
